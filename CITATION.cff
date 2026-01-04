@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "DigiVax: Protocol-Level Computational Integrity via Invariant Execution and Behavioral Pressure"
+authors:
+  - name: Harper, Mylon
+version: 1.0.0
+date-released: 2025-12-19
+license: CC-BY-ND-4.0
+repository-code: https://github.com/FullStackDrosus/digivax-public-disclosure
