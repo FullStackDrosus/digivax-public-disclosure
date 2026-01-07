@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>DigiVax — Private Briefing</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/briefing.css">
+</head>
+
+<body>
+
+<nav>
+    <div class="logo">DIGIVAX</div>
+</nav>
+
+<section>
+    <h1>Private Technical Briefing</h1>
+    <p>
+        This document describes the DigiVax protocol architecture, threat model,
+        and system guarantees at a level intended for institutional,
+        regulatory, and infrastructure partners.
+    </p>
+</section>
+
+<section class="grid">
+    <div>
+        <h2>Threat Model</h2>
+        <p>
+            DigiVax assumes persistent compromise of networks, endpoints,
+            identity providers, and credential systems. Security is not restored
+            through detection, but rendered unnecessary through protocol design.
+        </p>
+    </div>
+
+    <div>
+        <h2>Protocol Layer</h2>
+        <p>
+            Trust is established pre-transaction. No session, packet, or
+            instruction executes without cryptographic and structural legitimacy.
+        </p>
+    </div>
+
+    <div>
+        <h2>Operational Impact</h2>
+        <p>
+            Attack surfaces collapse. Cyber operations transition from
+            probabilistic defense to deterministic impossibility.
+        </p>
+    </div>
+</section>
+
+<section>
+    <p style="font-size:14px; color:#777;">
+        Access to this material may be subject to NDA or regulatory review.
+    </p>
+</section>
+
+<footer>
+    © DigiVax — Confidential Briefing Material
+</footer>
+
+</body>
+</html>
